@@ -79,6 +79,7 @@ def ban():
 def ok():
 	os.system('clear')
 	ban()
+	os.system('xdg-open https://youtube.com/channel/UCYdH7yWKnwLqREQ_uSWjODA')
 	jalan ('\033[1;91m[\033[1;97m1\033[1;91m] \033[1;97m~~~~~\033[1;94m[\033[1;97mJAMES\033[1;94m]')
 	jalan ('\033[1;91m[\033[1;97m2\033[1;91m] \033[1;97m~~~~~~\033[1;94m[\033[1;97mADF\033[1;94m]')
 	jalan ('\033[1;91m[\033[1;97m3\033[1;91m] \033[1;97m~~~~~~~\033[1;94m[\033[1;97mJUTT\033[1;94m]')
